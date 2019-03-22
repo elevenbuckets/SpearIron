@@ -1,0 +1,36 @@
+{
+  "name": "SpearIron",
+  "version": "1.0.0",
+  "description": "11BE: SpearIron RPC-WS Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elevenbuckets/SpearIron.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elevenbuckets/SpearIron/issues"
+  },
+  "homepage": "https://github.com/elevenbuckets/SpearIron#readme",
+  "dependencies": {
+    "accMgr": "https://github.com/elevenbuckets/accmgr.git",
+    "asar": "^0.14.3",
+    "async": "^2.6.1",
+    "bignumber.js": "^5.0.0",
+    "buttercup": "1.6.2",
+    "ethereumjs-tx": "^1.3.7",
+    "ethereumjs-utils": "^5.2.5",
+    "figlet": "^1.2.1",
+    "keythereum": "https://github.com/elevenbuckets/keythereum.git",
+    "node-fetch": "^1.7.3",
+    "rpc-websockets": "^4.3.5",
+    "uuid": "^3.1.0",
+    "web3": "^0.19",
+    "web3-eth-abi": "^1.0.0-beta.37"
+  }
+}
